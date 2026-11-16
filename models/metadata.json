@@ -1,0 +1,22 @@
+{
+    "features": [
+        "age",
+        "sex",
+        "cp",
+        "trestbps",
+        "chol",
+        "fbs",
+        "restecg",
+        "thalach",
+        "exang",
+        "oldpeak",
+        "slope",
+        "ca",
+        "thal"
+    ],
+    "target": "target",
+    "classes": {
+        "0": "menor risco / ausência de doença cardíaca",
+        "1": "maior risco / presença de doença cardíaca"
+    }
+}
